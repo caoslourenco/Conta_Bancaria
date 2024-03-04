@@ -40,6 +40,29 @@ classDiagram
 ***
 
 ```
+
+### 🏦 The Project consists of the following Classes and Interfaces:
+
+| Class/Interface    | Description                                                |
+| ------------------- | --------------------------------------------------------- |
+| **Menu**            | Main class, containing the `main` method, responsible for creating the initial application menu with all system functionalities. |
+| **Colors**          | Utility class, responsible for applying colors to the menu. |
+| **Account**         | Class responsible for defining the generic Account object. |
+| **CheckingAccount** | Class responsible for defining the Checking Account object. |
+| **SavingsAccount**  | Class responsible for defining the Savings Account object. |
+| **AccountRepository** | Interface responsible for encapsulating the methods to be used in the application menu. |
+| **AccountController** | Class responsible for implementing the AccountRepository interface. |
+
+***
+###  📍Features and Functionalities:
+
+- [x] Utility class for color customization.
+- [x] Abstract class implementation for extensibility.
+- [x] Exception handling for error management.
+- [x] CRUD (Create, Read, Update, Delete) operations for data manipulation.
+- [x] Banking methods for financial transactions and operations.
+
+***
  
 &nbsp;
 <p align="right" style="color: #FFD700;">
