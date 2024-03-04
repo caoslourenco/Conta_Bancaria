@@ -1,5 +1,17 @@
+contabancaria/
+│
+└─── account/
+    │
+    └─── Menu.java
+    │
+    └─── utils/
+        │
+        └─── Colors.java
 
-classDiagram
+
+
+
+```classDiagram
     class BankAccount {
         - accountNumber: int
         - balance: double
@@ -9,6 +21,6 @@ classDiagram
         + getBalance(): double
     }
     class Menu
-    class Colors
+    class Colors```
 
 ***
