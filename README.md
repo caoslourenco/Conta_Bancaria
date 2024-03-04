@@ -1,3 +1,8 @@
+
+
+This project was developed during the first block of the Generation bootcamp. In this phase, I was introduced to the Object-Oriented Paradigm, and for the first time, I was able to put CRUD (Create, Read, Update, and Delete) into practice
+
+```
 contabancaria/
 │
 └─── account/
@@ -11,7 +16,7 @@ contabancaria/
 
 
 
-```classDiagram
+classDiagram
     class BankAccount {
         - accountNumber: int
         - balance: double
@@ -21,6 +26,6 @@ contabancaria/
         + getBalance(): double
     }
     class Menu
-    class Colors```
+    class Colors
 
 ***
