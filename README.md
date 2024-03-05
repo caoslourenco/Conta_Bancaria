@@ -18,6 +18,12 @@ contabancaria/
     │
     └─── Menu.java
     │
+    └─── Model/
+        │
+        └─── Account.java
+        │
+    │   └─── menutest.java
+    │
     └─── utils/
         │
         └─── Colors.java
